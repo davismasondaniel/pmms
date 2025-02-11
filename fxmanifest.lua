@@ -30,5 +30,6 @@ ui_page "ui/index.html"
 
 client_scripts {
 	"dui.lua",
+	"staticEmitters.lua",
 	"client.lua"
 }
